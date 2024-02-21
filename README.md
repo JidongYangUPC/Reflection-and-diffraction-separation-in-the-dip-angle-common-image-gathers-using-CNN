@@ -2,6 +2,8 @@
 
 The reflection and diffraction have different geometric characteristics in DACIG, which provides one opportunity to separate diffractions and reflections. In this study, we present an efficient and accurate diffraction separation and imaging method using a convolutional neural network (CNN). The training data set of DACIGs is generated using one pass of seismic modeling and migration for velocity models with and without artificial scatterers, respectively. Then, a simplified end-to-end CNN is trained to identify and extract reflections from the migrated DACIGs that contain reflections and diffractions. Next, two adaptive subtraction strategies are presented to compute the diffraction DACIGs and stacked images, respectively. 
 
+
+
 ![Index](README.assets/Index.png)
 
 ## Link to related article
